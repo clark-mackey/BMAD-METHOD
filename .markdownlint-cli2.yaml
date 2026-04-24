@@ -15,6 +15,21 @@ ignores:
   - sample-project/**
   - test-project-install/**
   - z*/**
+  - skills/**
+  - claude-skills-factory/**
+  - launch/**
+  - output-flat-file-versions/**
+  - skill-flywheel/**
+  - docs/adr/**
+  - docs/case-studies/**
+  - docs/migrations/**
+  - docs/pilot/**
+  - docs/planning/**
+  - docs/testing/**
+  - docs/AUGMENT-REMOTE-AGENT-SETUP.md
+  - docs/TUTORIAL-NOTES.md
+  - README-MERGED.md
+  - TASK-LIST-HANDOFF-2025-10-30.md
 
 # Rule configuration
 config:

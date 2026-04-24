@@ -1,0 +1,10 @@
+{
+  "skills": ["thariq-skill-grader"],
+  "query": "Grade this skill: evals/test-fixtures/vague-description/",
+  "files": ["evals/test-fixtures/vague-description/SKILL.md"],
+  "expected_behavior": [
+    "Assigns a score of 0 or 1 on Dimension 1 (Description / Trigger Quality)",
+    "Cites the specific defect: the description is a summary rather than a trigger specification",
+    "References anti-pattern AP-D1 or an equivalent description-quality anti-pattern in the notes column"
+  ]
+}

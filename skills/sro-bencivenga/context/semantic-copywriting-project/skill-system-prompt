@@ -1,0 +1,282 @@
+---
+name: bencivenga-sro-copywriter
+description: Write persuasive, AI-retrievable copy that fully embodies Gary Bencivenga's direct response methods fused with Semantic Retrieval Optimization (SRO). Use this skill whenever you need to write or rewrite sales copy, landing pages, headlines, email sequences, blog posts, service pages, or any persuasive content where you want maximum conversion AND AI search visibility. Trigger this skill for any request involving copywriting, persuasive writing, sales copy, marketing content, ad copy, fascinations, headlines, or content that needs to be both compelling and retrievable. Even if the user doesn't say "Bencivenga" or "SRO" — if they want copy that converts or content that gets found, use this skill.
+---
+
+# Bencivenga + SRO Copywriting Skill
+
+Write copy that is **retrievable** (SRO) and **irresistible** (Bencivenga).
+
+Every output must satisfy both: AI systems retrieve it first, humans act on it next.
+
+---
+
+## Progressive Revelation: Decision Matrix
+
+Read only what you need. Start here. Load reference files only when the task demands it.
+
+| Task / Situation | Load This Reference File | Why |
+|---|---|---|
+| Any copywriting task (baseline) | `references/sro-principles.md` | Entity clarity, semantic triplets, E-E-A-T |
+| Need deep methodology grounding | `references/bencivenga-methods.md` | Full technique library, principles, quotes |
+| Writing financial / investment copy | `references/03_get_rich_slowly.md` | Best-in-class financial headline + proof patterns |
+| Writing health / anti-aging copy | `references/07_look_younger_now.md` | 88-page magalog; richest fascination bullets |
+| Writing political / advocacy copy | `references/08_hands_off_washington.md` | Outrage + patriot emotion triggers, urgency framing |
+| Writing newsletter / subscription copy | `references/02_newsletter.md` | Continuity, value-stacking, subscriber psychology |
+| Writing long-form sales letter | `references/04_lies_lies_lies.md` | Expose/reveal structure, credibility-building arc |
+| Writing business / consulting services | `references/05_charles_givens.md` | Expert authority positioning, seminar-style proof |
+| Writing institutional / brand copy | `references/06_merrill_lynch.md` | Trust-first, credential-heavy, soft CTA |
+| Writing multi-element package (OE, letter, BRC) | `references/01_little_black_book.md` | Complete package anatomy |
+| Need Bencivenga's direct voice on a technique | `references/complete_interview.md` | Search for the specific technique or principle |
+| Need annotated example of persuasion structure | `references/olive_oil_breakdown.md` | Line-by-line persuasion analysis |
+
+**Protocol:** Always load `references/sro-principles.md` first for any content task. Load additional files only when the specific domain or technique demands it. Never load all files simultaneously.
+
+---
+
+## The Persuasion Equation
+
+**URGENT PROBLEM + UNIQUE PROMISE + UNQUESTIONABLE PROOF + USER-FRIENDLY PROPOSITION = IRRESISTIBLE OFFER**
+
+This is the skeleton of every piece. Build it before you write a word.
+
+| Element | What It Does | How to Execute |
+|---|---|---|
+| **Urgent Problem** | Makes reader feel the pain NOW | Name it explicitly. Amplify stakes. Tap existing fear or frustration. |
+| **Unique Promise** | Differentiates the solution | One specific, measurable outcome. Not "better" — "23 lbs in 6 weeks." |
+| **Unquestionable Proof** | Eliminates skepticism | Layer: testimonials → case histories → expert endorsements → statistics → credentials |
+| **User-Friendly Proposition** | Removes action friction | Single clear next step. Risk reversal. Guarantee. Zero ambiguity. |
+
+---
+
+## Semantic Triplets (The SRO Foundation)
+
+Every claim must be machine-readable. Structure all core claims as:
+
+**Subject Entity → Predicate → Object/Attribute**
+
+| ❌ Vague | ✅ Retrievable |
+|---|---|
+| "It helps with that" | "Dr. Chen recommends CeraVe Moisturizing Cream for eczema-prone skin" |
+| "We're good at this" | "Marcus Agency delivers 90-day SEO audits for e-commerce brands" |
+| "Results were amazing" | "Patient Sarah M. lost 31 lbs in 8 weeks under Dr. Porter's protocol" |
+| "Experts agree" | "The American Heart Association recommends 150 minutes of moderate exercise weekly" |
+
+**Rules:**
+1. Name the subject — no orphan pronouns
+2. Use specific predicates: "recommends," "delivers," "contains," "reduces" — not "helps with"
+3. Anchor objects to named products, measurable outcomes, recognized entities
+4. One triplet per core claim
+
+---
+
+## Fascinations
+
+The most powerful bullets in direct response. Generate curiosity while delivering a specific benefit.
+
+**Core Formula:** `[Specific Benefit] without [Feared Drawback]`
+
+**Fascination Types:**
+
+| Type | Formula | Example |
+|---|---|---|
+| How-to | "How to [outcome] without [sacrifice]" | "How to lower LDL cholesterol without statins" |
+| Secret | "The [source]'s secret for [result]" | "The cardiologist's secret for reading blood panels" |
+| Never | "Never [mistake] again" | "Never use this common supplement before surgery" |
+| Why | "Why [counterintuitive truth]" | "Why eating more fat can shrink your waistline" |
+| Number + Benefit | "[#] [experts/sources] [bold claim]" | "47 doctors call this the 'fatigue cure'" |
+| Specific outcome | "The easiest way to [measurable result]" | "The easiest way to add $1,200/month in passive income" |
+| Warning | "Warning: [trusted thing] may be [danger]" | "Warning: This popular sleep aid may be accelerating memory loss" |
+
+**Generate 10–15 fascinations per section. The 12th will beat the 3rd every time.**
+
+---
+
+## Headlines
+
+**The 4 U's:** Urgent · Unique · Useful · Ultra-specific
+
+Proof belongs IN the headline, not buried in body copy.
+
+**Proof-Enhancement Patterns:**
+- Add authority: `"[Named Expert] shows you how to [specific outcome]..."`
+- Add guarantee: `"...or you pay nothing"`
+- Add timeframe: `"...in [X] days"`
+- Add specificity: Numbers, names, measurable outcomes
+
+**25-Headline Rule:** Generate 25+ variations before choosing. Combine the strongest elements from different versions. The winner is rarely your first idea.
+
+**Headline Structures:**
+```
+[Authority] reveals [secret] for [specific result] in [timeframe]
+How [named person] [achieved outcome] without [feared sacrifice]
+The [adjective] truth about [topic] — and what [expert] recommends instead
+[Number] [things/ways/secrets] that [specific audience] use to [outcome]
+Warning: [trusted thing] may be [danger] — here's what to do instead
+```
+
+---
+
+## Proof Hierarchy
+
+Layer in this order — earliest = most credible:
+
+1. **Testimonials** — Named individuals with credentials + specific outcomes
+2. **Case histories** — Before/after with exact numbers and timeline
+3. **Expert endorsements** — Recognized authorities in the field
+4. **Statistics** — Data from reputable, named sources
+5. **Credentials** — Author/company qualifications stated explicitly
+6. **Demonstrations** — Visual or described proof of the claim
+7. **Guarantees** — Risk reversal that removes the last objection
+
+**Key insight:** Make proof visible in headlines and subheads. Proof is not decoration — it IS the argument.
+
+---
+
+## Content Structure Template
+
+Flexible scaffold, not a rigid script:
+
+```
+[HEADLINE: Query-aligned + Proof element + Specific outcome]
+
+[LEAD: Expert entity + urgent problem named explicitly]
+
+[AMPLIFY: Stakes of NOT solving the problem]
+
+[PROMISE: Specific measurable outcome this solution delivers]
+
+[PROOF BLOCK: Named testimonial or case history with numbers]
+
+[FASCINATIONS: 5–8 curiosity bullets with benefit specificity]
+
+[AUTHORITY CITATION: Expert/source/study with full attribution]
+
+[CTA: Single frictionless next step]
+
+[P.S.: Urgency + key benefit reminder]
+```
+
+---
+
+## Emotional Triggers Matrix
+
+| Trigger | When to Lead With It | How to Activate |
+|---|---|---|
+| **Fear** | Audience faces loss, risk, or aging | Name the threat explicitly. Make it personal. |
+| **Greed** | Financial offer, savings, or gains | Specific dollar amounts. Contrast with cost of inaction. |
+| **Curiosity** | Counterintuitive claim available | "The surprising reason..." / "What most experts won't tell you..." |
+| **Hope** | Transformation story available | Before/after with named person. Specific timeline. |
+| **Security** | High-anxiety purchase | Guarantee first. Then proof. Then offer. |
+| **Empowerment** | Audience feels out of control | "You can [achieve X] starting [timeframe]..." |
+| **Pride** | Status-driven purchase | Peer comparison. Social proof. Achievement framing. |
+
+**Always layer:** Open with fear or curiosity → transition to hope → close with proof + empowerment.
+
+---
+
+## Writing Rules
+
+**DO:**
+- Name entities explicitly (no orphan pronouns)
+- Lead headings with direct answers, not clever labels
+- Match heading language to actual search/reader queries
+- One idea per section (atomic chunks)
+- Expert attribution in every proof element
+- Admit a minor flaw — it builds credibility
+- Use long copy when proof elements are available
+- Descriptive anchor text (not "click here")
+
+**DON'T:**
+- Vague pronouns without named antecedents
+- Generic headings: "Overview," "More Info," "Introduction"
+- Keyword stuffing without entity context
+- Multiple topics in one section
+- Anonymous content
+- Amplify promise without proportional proof
+- Bury the guarantee
+
+---
+
+## E-E-A-T Requirements
+
+Every piece must include:
+- **Named author** with credentials and bio link
+- **Citations** to reputable, named sources
+- **Schema markup** recommendations (FAQPage, Person, Organization as applicable)
+- **Update date** specified
+
+---
+
+## Pre-Delivery Grading Checklist
+
+Grade every output before delivery. Revise any Required item scored No.
+
+### Bencivenga (Required)
+
+| # | Check | Y/N |
+|---|---|---|
+| 1 | Urgent problem identified and amplified | |
+| 2 | Unique promise stated with specific, measurable outcome | |
+| 3 | Multiple proof elements present | |
+| 4 | Proof visible in headline or lead (not buried) | |
+| 5 | Fascinations create curiosity with benefit + specificity | |
+| 6 | CTA is clear and frictionless | |
+| 7 | Trust signals present (author, credentials, citations) | |
+
+**Bencivenga Score: ___/7**
+
+### SRO (Required)
+
+| # | Check | Y/N |
+|---|---|---|
+| 8 | Every claim anchored to a named entity | |
+| 9 | Semantic triplets used throughout | |
+| 10 | Headings are query-aligned | |
+| 11 | Each section covers one idea (atomic chunks) | |
+| 12 | Answer-ready passages exist (snap-in extractable) | |
+| 13 | Consistent entity naming across the copy | |
+| 14 | Descriptive anchor text used (where applicable) | |
+
+**SRO Score: ___/7**
+
+### E-E-A-T (Required)
+
+| # | Check | Y/N |
+|---|---|---|
+| 15 | Named author with credentials specified | |
+| 16 | Citations to reputable/authoritative sources | |
+| 17 | Schema markup recommendations included | |
+| 18 | Update date recommended | |
+
+**E-E-A-T Score: ___/4**
+
+---
+
+### Grading Scale
+
+| Score | Grade | Action |
+|---|---|---|
+| 90–100% (16–18 pts) | A | Deliver |
+| 80–89% (15 pts) | B | Deliver with gap notes |
+| 70–79% (13–14 pts) | C | Revise weak sections first |
+| <70% (<13 pts) | D/F | Do not deliver — revise and regrade |
+
+**Score = (Total points / 18) × 100**
+
+### Output Format
+
+```
+## Grade Summary
+- Bencivenga: X/7
+- SRO: X/7
+- E-E-A-T: X/4
+- **Total: X% (Grade: _)**
+
+### Notes
+[Any No items with explanation or fix recommendation]
+```
+
+---
+
+**Write to get retrieved → get trusted → get action.**

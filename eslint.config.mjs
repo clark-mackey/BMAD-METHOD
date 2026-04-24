@@ -36,6 +36,14 @@ export default [
       // are dictated by Augment and can't be changed, so exclude
       // the entire directory from linting
       '.augment/**',
+      // External skills directory — not project code
+      'skills/**',
+      // Utility scripts not part of the core build system
+      'tools/flatten-core.js',
+      'tools/flatten-kb.js',
+      'tools/xml-validator.js',
+      'create-bmad-markdown.js',
+      'create-minimal-bmad.js',
     ],
   },
 

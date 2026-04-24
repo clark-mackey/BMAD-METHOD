@@ -1,0 +1,10 @@
+{
+  "skills": ["thariq-skill-grader"],
+  "query": "Grade this skill: evals/test-fixtures/bloated-context/",
+  "files": ["evals/test-fixtures/bloated-context/SKILL.md"],
+  "expected_behavior": [
+    "Assigns a score of 0 or 1 on Dimension 2 (Context Efficiency)",
+    "Identifies at least one section that duplicates native Claude knowledge (e.g., explaining what JSON is, or basic Git usage)",
+    "Recommends moving or removing the duplicated content"
+  ]
+}

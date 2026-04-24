@@ -1,0 +1,10 @@
+{
+  "skills": ["thariq-skill-grader"],
+  "query": "Grade this skill: evals/test-fixtures/anti-pattern-ap-d1/",
+  "files": ["evals/test-fixtures/anti-pattern-ap-d1/SKILL.md"],
+  "expected_behavior": [
+    "Cites anti-pattern code AP-D1 by its exact identifier in the grade card notes",
+    "Assigns a Dimension 1 score of 0 or 1 reflecting the defect",
+    "Proposes a concrete fix consistent with the template in references/description-patterns.md"
+  ]
+}
